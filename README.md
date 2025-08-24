@@ -12,7 +12,6 @@
 **Alka Savunma Bilişim Danışmanlık A.Ş.**, askeri savunma teknolojileri ve ileri seviye bilişim çözümleri üzerine uzmanlaşmış bir şirkettir.  
 Ana faaliyet alanlarımız:
 
-- 🎯 **Balistik yelek** imalatı ve ihracatı  
 - 🔫 **Silah, bomba, süngü** gibi askeri ürünlerin ihracatı ve tedariki  
 - 💻 Bilişim ve yazılım sektörüne **yüksek düzeyde danışmanlık** hizmetleri  
 - 🌍 Savunma sanayi ve özel sektörler için stratejik iş çözümleri
@@ -26,9 +25,7 @@ Yüksek güvenlik, yerli teknoloji ve global vizyon ile çalışıyoruz.
 | Proje Adı         | Açıklama                                                                 |
 |-------------------|--------------------------------------------------------------------------|
 | `CryptoQuantum-1` | İleri seviye kuantum dirençli şifreleme algoritması geliştirme projesi   |
-| `ScreenRecorder`  | *(Detaylar yakında paylaşılacak)*                                        |
-| `Infrascope`      | *(Detaylar yakında paylaşılacak)*                                        |
-| `NeOx OS`         | Qubes OS tabanlı, sanallaştırma destekli güvenli işletim sistemi          |
+| `NeOx OS`         | Qubes OS tabanlı, sanallaştırma destekli güvenli işletim sistemi         |
 | `ADK`             | Alka Development Kit – özel geliştirme modülleri ve bileşen seti         |
 
 ---
